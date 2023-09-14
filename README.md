@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vitor Luciano</h1>
-<h3 align="center">a croissant not binarie and nigga</h3>
+<h3 align="center">a croissant not binarie and korean</h3>
 
 - 🔭 I’m currently working on **JavaScript**
 
